@@ -29,4 +29,4 @@ Tablas
 |----------|----------|----------|
 |  Datos   | Datos    | Datos    |
 ```
-- ✅[Instalacion](Instalacion.md)
+- ✅[Instalacion](Version1.md)
